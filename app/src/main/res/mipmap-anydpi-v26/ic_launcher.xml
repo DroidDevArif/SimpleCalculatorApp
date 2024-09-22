@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/maths" />
+    <foreground android:drawable="@drawable/maths" />
+    <monochrome android:drawable="@drawable/maths" />
+</adaptive-icon>
